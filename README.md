@@ -4,11 +4,10 @@ I'm DanG115, a passionate coder who loves building awesome things on the web.
 
 ## About Me
 
-- 🚀 I'm some what of a front-end developer with a keen interest in creating sleek and responsive user interfaces.
-- 💻  in HTML, CSS, and JavaScript for crafting engagxing web experiences.
+- 🚀 Hey there, I'm kind of a front-end enthusiast, and I love making websites look cool and snazzy.
+- 💻 I enjoy playing around with HTML, CSS, and JavaScript to bring web pages to life.
+- 🐍 I'm also into the whole Python and discord.py scene for creating fun and quirky Discord bots.
 
-- 
-- 🐍 I also enjoy diving into backend development with Python, particularly using discord.py for building Discord bots.
 
 ## My Tech Stack
 
@@ -23,11 +22,21 @@ I'm DanG115, a passionate coder who loves building awesome things on the web.
 - **Discord Bots:** Creating fun and functional bots using discord.py
 d.py
 
+
+## My Projects
+
+Here are some of the cool projects I've worked on:
+
+1. [QuickHTML](https://github.com/DanG115/QuickHTML) - A Visual Studio Code extension for streamlining web design workflows.
+2. [SnowFall For Websites](https://github.com/DanG115/snow-fall) - simple web page with a falling snow effect
+3. [Customisable Loading Screen For Websites](https://github.com/DanG115/websiteloader-v2) - A customisable loading screen. Created by using HTML, CSS & JS 
+4. [Voltage - Discord.py bot](https://github.com/DanG115/Voltage-Bot-23) - OUTDATED
+Feel free to explore and let me know what you think! 🚀
+
+
+
 ## Get in Touch
 
-🌐 [Portfolio](https://yourportfolio.com)  
-📧 Email: your.email@example.com  
-🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)  
-👔 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
-
-Let's code something amazing together! 💻✨
+🌐 [My Website](https://dan-gleeson.co.uk)  
+📧 Email: Via Website (Above) or [Contact Form](https://dan-gleeson.co.uk/contact)
+🐦 Twitter: [@dan_g116)](https://twitter.com/dan_g116)  
