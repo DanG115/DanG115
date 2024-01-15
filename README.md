@@ -28,8 +28,7 @@ Here are some of the cool projects I've worked on:
 1. [QuickHTML](https://github.com/DanG115/QuickHTML) - A Visual Studio Code extension for streamlining web design workflows.
 2. [SnowFall For Websites](https://github.com/DanG115/snow-fall) - simple web page with a falling snow effect
 3. [Customisable Loading Screen For Websites](https://github.com/DanG115/websiteloader-v2) - A customisable loading screen. Created by using HTML, CSS & JS 
-4. [Voltage - Discord.py bot](https://github.com/DanG115/Voltage-Bot-23) - OUTDATED
-Feel free to explore and let me know what you think! 🚀
+4. [Voltage - Discord.py bot](https://github.com/DanG115/Voltage-Bot-23) - TERMINATED
 
 ## Get in Touch
 
