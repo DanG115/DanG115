@@ -32,7 +32,5 @@ Here are some of the cool projects I've worked on:
 
 ## Get in Touch
 
-🌐 [My Website](https://dan-gleeson.co.uk)  
-📧 Email: Via Website (Above) or [Contact Form](https://dan-gleeson.co.uk/contact)  
 🐦 Twitter: [@dan_g116](https://twitter.com/dan_g116)  
 
