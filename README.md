@@ -32,5 +32,6 @@ Here are some of the cool projects I've worked on:
 
 ## Get in Touch
 
-🐦 Twitter: [@dan_g116](https://twitter.com/dan_g116)  
+🐦 Twitter: [@dan_g116](https://twitter.com/dan_g116)
+(Other links in bio)
 
