@@ -1,38 +1,42 @@
-# 👋 
+# 👋 Just DanG115  
 
-I'm DanG115, some what of a front-end web developer & a discord bot developer. 
+I’m DanG115, your not-so-average front-end web dev and Discord bot developer. I spend my time turning questionable ideas into code—sometimes it works, sometimes it’s chaos. Either way, it’s fun.  
+
 ---
 
 ## 🖥️ About Me  
 
-- 🎨 I turn boring websites into eye candy with HTML, CSS, and JavaScript.  
-- 🐍 I build Discord bots with Python because who doesn't want a bot friend?  
-- 😎 I’m all about cool projects, bad jokes, and good code.  
+- 🎨 I turn plain, boring websites into works of art (or something close to it) using HTML, CSS, and JavaScript.  
+- 🐍 I build Discord bots because every good dev needs an army of digital minions.  
+- 😎 My hobbies include making *completely unnecessary* but surprisingly fun projects like redirecting Bing Videos or snowing on web pages.  
 
 ---
 
-## 🔧 My Toolbox  
+## 🔧 What’s in My Dev Toolbox?  
 
-- 🛠️ **HTML, CSS, JS**: Making websites that don’t just work—they *wow*.  
-- 🐍 **Python**: Creating bots that do my bidding (and yours too, probably).  
-- 🎉 **Fun Ideas**: Sometimes they work, sometimes they crash. It's a vibe.  
-
----
-
-## 🔥 My Creations  
-
-1. [**QuickHTML**](https://github.com/DanG115/QuickHTML) – For when you want to web design at lightning speed. ⚡  
-2. [**SnowFall**](https://github.com/DanG115/snow-fall) – Because who doesn’t love snow? ❄️  
-3. [**Customizable Loaders**](https://github.com/DanG115/websiteloader-v2) – Fancy loading screens for fancy people. 🚀  
-4. [**Voltage Bot**](https://github.com/DanG115/Voltage-Bot-23) – It lived. It ruled. It got terminated. 💀  
+- 🛠️ **HTML, CSS, JS**: Making websites that wow (or at least don’t crash).  
+- 🐍 **Python**: Writing bots that sometimes do what they’re told.  
+- 🎉 **Random Ideas**: Useless but oddly satisfying experiments, like QuickHTML and Bing Redirector.  
 
 ---
 
-## 📬 Hit Me Up  
+## 🔥 My Totally-Useful Creations  
 
-- 🐦 **Twitter**: [@dan_g116](https://twitter.com/dan_g116) (I promise I’m funnier online).  
-- 🔗 Find more links in my bio because that’s what cool people do.  
+1. [**QuickHTML**](https://github.com/DanG115/QuickHTML) – A Visual Studio Code extension that was cool enough to make it to the marketplace. ⚡  
+2. [**SnowFall**](https://github.com/DanG115/snow-fall) – Add some cozy snow to your website because why not? ❄️  
+3. [**Customizable Loaders**](https://github.com/DanG115/websiteloader-v2) – Fancy spinners for fancy people. 🚀  
+4. [**Voltage Bot**](https://github.com/DanG115/Voltage-Bot-23) – A Discord bot with too much personality. Gone but not forgotten. 💀  
+5. [**Bing Redirector**](https://github.com/DanG115/Bing-Redirector) – Because I refuse to let Bing stand between me and YouTube. 🏃‍♂️  
 
 ---
 
-✨ That's all, folks! Now, go click on my projects and pretend to be impressed. 😉  
+## 📬 How to Reach Me  
+
+- 🐦 **Twitter**: [@dan_g116](https://twitter.com/dan_g116) .  
+- 🔗 More links in my bio—because that’s how you know I’m serious.  
+
+---
+
+## ✨ Why Follow Me?  
+
+If you’re into quirky projects, occasional humour, and code experiments that are more fun than functional, I’m your person. Check out my stuff, laugh at my jokes, and maybe learn a thing or two. 😉  
