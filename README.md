@@ -1,7 +1,6 @@
-# 👋 Oh, Hey There!  
+# 👋 
 
-I'm DanG115, your friendly neighborhood coder who loves making the web a better (and sometimes weirder) place.  
-
+I'm DanG115, some what of a front-end web developer & a discord bot developer. 
 ---
 
 ## 🖥️ About Me  
