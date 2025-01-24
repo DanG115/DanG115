@@ -1,6 +1,6 @@
 # 👋 Just DanG115  
 
-I’m DanG115, your not-so-average front-end web dev and Discord bot developer. I spend my time turning questionable ideas into code—sometimes it works, sometimes it’s chaos. Either way, it’s fun.  
+I’m DanG115, a front-end web dev. I spend my time turning questionable ideas into code—sometimes it works, sometimes it’s chaos. Either way, it’s fun.  
 
 ---
 
@@ -34,9 +34,3 @@ I’m DanG115, your not-so-average front-end web dev and Discord bot developer. 
 
 - 🐦 **Twitter**: [@dan_g116](https://twitter.com/dan_g116) .  
 - 🔗 More links in my bio—because that’s how you know I’m serious.  
-
----
-
-## ✨ Why Follow Me?  
-
-If you’re into quirky projects, occasional humour, and code experiments that are more fun than functional, I’m your person. Check out my stuff, laugh at my jokes, and maybe learn a thing or two. 😉  
