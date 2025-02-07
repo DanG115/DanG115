@@ -32,5 +32,4 @@ I’m DanG115, a front-end web dev. I spend my time turning questionable ideas i
 
 ## 📬 How to Reach Me  
 
-- 🐦 **Twitter**: [@dan_g116](https://twitter.com/dan_g116) .  
-- 🔗 More links in my bio—because that’s how you know I’m serious.  
+- 🐦 **Discord**: [@dan_g116](https://discord.com/users/691203956457734145) .  
