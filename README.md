@@ -1,4 +1,4 @@
-Hello! Thank you for being interested in my profile. Read more below to find out some more!
+Hello! Thank you for being interested in my profile.
 
 ---
 
